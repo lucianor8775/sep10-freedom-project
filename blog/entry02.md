@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# Entry 2: next steps
+##### 10/4/2024
 
 Text
 

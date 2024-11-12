@@ -10,7 +10,7 @@ a few of the apps i found include [solar walk](https://vitotechnology.com/apps/s
 
 ### sources
 a lot of sources that i have used include:
-* (astronomy software)[https://astronomyonline.org/AstronomySoftware.asp], astronomy software is a website that includes a lot of different software programs and apps, the website also includes a lot of information about the apps.
+* [astronomy software](https://astronomyonline.org/AstronomySoftware.asp), astronomy software is a website that includes a lot of different software programs and apps, the website also includes a lot of information about the apps.
 *
 
 

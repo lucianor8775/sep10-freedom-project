@@ -9,8 +9,11 @@ a few of the apps i found include [solar walk](https://vitotechnology.com/apps/s
 
 
 ### sources
-a lot of sources that i have used include:
-* [astronomy software](https://astronomyonline.org/AstronomySoftware.asp), astronomy software is a website that includes a lot of different software programs and apps, the website also includes a lot of information about the apps.
-*
+a lot of sources that i have used this unit include:
+* [astronomy software](https://astronomyonline.org/AstronomySoftware.asp) is a website that includes a lot of different software programs and apps, the website also includes a lot of information about the apps.
+* [stargazingapps](https://www.space.com/best-stargazing-apps) is an article that i used in order to collect info about apps. this article ranked the apps from best to worst and was very useful to me when i was doing my research on apps.
+* [astronomyonline](:http://astronomyonline.org/Science/Equipment.asp#:~:text=Telescopes%20and%20radio%20dishes%20are,of%20filters%2C%20photometers%20and%20spectrometers.) this website helped me a lot when learning more about astronomy, an example of something that i have learned using this website is that Telescopes and radio dishes are used from the surface of the Earth to study visible light, near infrared light, and radio waves. From space, astronomers use special telescopes to study X-ray and gamma ray emissions. space based telescopes like the Hubble Space Telescope can peer deep into the Universe without atmospheric
+Other specialized instruments are also finding their way into main stream astronomy, like neutrino detectors deep underground and gravity wave detectors.
+* [science nasa](:https://science.nasa.gov/mission/hubble/observatory/design/instruments/0) 
 
 

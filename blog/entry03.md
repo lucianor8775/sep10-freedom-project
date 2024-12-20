@@ -18,10 +18,10 @@ I am currently finishing up my research for this project. The next step that i m
 a few skills that i learned after starting this project where, **learning how to google, time management, and organization.**
 
 #### Googling
-**learning how to google** was a very esential skill that i picked up while doing this project, and it was very helpful when it came time to do research, learning how to google has helped me a lot with this project as well as outside this projrct because it tought me to use key words in my searches in order to get the reseults that i needed.
+**learning how to google** was a very esential skill that i picked up while doing this project, and _it was very helpful when it came time to do research_, learning how to google has helped me a lot with this project as well as outside this projrct because it tought me to use key words in my searches in order to get the reseults that i needed.
 
 #### Time managment
-**time management** is another skill that helped me while working on the freedom project, it has helped me with setting time aside in order to do research, this skill also helped me in some of my other classes because it has helped me with setting time aside in order to study and catch up on work that i have misssed.
+**time management** is another skill that helped me while working on the freedom project, _it has helped me with setting time aside in order to do research_, this skill also helped me in some of my other classes because it has helped me with setting time aside in order to study and catch up on work that i have misssed.
 
 #### Organization
-**Organization** is another skill that has helped me in this project as well as in some of my other clases because it has helped me with organizing my research notes on my topic but as well as organizing my work and my other notes in class. 
+**Organization** is another skill that has helped me in this project as well as in some of my other clases because _it has helped me with organizing my research notes on my topic_ but as well as organizing my work and my other notes in class. 

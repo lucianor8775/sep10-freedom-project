@@ -23,5 +23,5 @@ learning how to google was a very esential skill that i picked up while doing th
 #### Time managment
 time management is another skill that helped me while working on the freedom project, it has helped me with setting time aside in order to do research, this skill also helped me in some of my other classes because it has helped me with setting time aside in order to study and catch up on work that i have misssed.
 
-### Organization
+#### Organization
 Organization is another skill that has helped me in this project as well as in some of my other clases because it has helped me with organizing my research notes on my topic but as well as organizing my work and my other notes in class. 

@@ -20,7 +20,7 @@ a few skills that i learned after starting this project where, learning how to g
 #### Googling
 learning how to google was a very esential skill that i picked up while doing this project, and it was very helpful when it came time to do research, learning how to google has helped me a lot with this project as well as outside this projrct because it tought me to use key words in my searches in order to get the reseults that i needed.
 
-#### time managment
+#### Time managment
 time management is another skill that helped me while working on the freedom project, it has helped me with setting time aside in order to do research, this skill also helped me in some of my other classes because it has helped me with setting time aside in order to study and catch up on work that i have misssed.
 
 ### Organization

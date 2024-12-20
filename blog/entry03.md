@@ -6,10 +6,9 @@ I have written and done my research on my project topic. **My project will be ab
 
  ### Sources 
 In order to find and gather all my information i had to use multiple sources so that i could build both my part A and part B of my notes. these where my **sources**:
-* [NASA](nasa.gov)
-* [Space.com](https://www.space.com/best-stargazing-apps)
-* [astronomyonline](https://astronomyonline.org/AstronomySoftware.asp)
-* [google](google)
+* The [NASA](nasa.gov) website helped me with learning more about my topic.
+* [Space.com](https://www.space.com/best-stargazing-apps) helped me by giving me information on good astronomy apps.
+* [astronomyonline](https://astronomyonline.org/AstronomySoftware.asp) helped me with doing research on astronomy tools.
 
 ### Engineering Design Process
 I am currently finishing up my research for this project. The next step that i must take in my **engineering design process** is to use all of my organized notes and my research to work on creating the bigger picture that being a _prototype of my invention_ as well as a much simpler and organized description on how my invention and everything in my app/immersion experience will work.

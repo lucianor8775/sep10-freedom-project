@@ -5,14 +5,14 @@
 I have written and done my research on my project topic. **My project will be about an immersion experience** that includes an app that has all information available about space using a kind of software that gives the user access to all the databases/information about space ever recorded. I brainstormed part B of my project by adding the big ideas, being my astronomy space room and then i wrote multiple small details that my main idea will have. I finalized all of my content so that it is realy for my website by organizing all of my notes and categorizing them based on the most information that i can get.
 
  ### Sources 
-In order to find and gather all my information i had to use multiple sources so that i could build both my part A and part B of my notes. these where my sources:
+In order to find and gather all my information i had to use multiple sources so that i could build both my part A and part B of my notes. these where my **sources**:
 * [NASA](nasa.gov)
 * [Space.com](https://www.space.com/best-stargazing-apps)
 * [astronomyonline](https://astronomyonline.org/AstronomySoftware.asp)
 * [google](google)
 
 ### Engineering Design Process
-I am currently finishing up my research for this project. The next step that i must take in my engineering design process is to use all of my organized notes and my research to work on creating the bigger picture that being a prototype of my invention as well as a description on how my invention and how everything will work in my app/immersion experience.
+I am currently finishing up my research for this project. The next step that i must take in my **engineering design process** is to use all of my organized notes and my research to work on creating the bigger picture that being a prototype of my invention as well as a description on how my invention and how everything will work in my app/immersion experience.
 
 ### Skills 
 a few skills that i learned after starting this project where, **learning how to google, time management, and organization.**

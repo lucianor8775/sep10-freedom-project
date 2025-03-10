@@ -29,7 +29,8 @@ I am currently trying to work with my tool and I am trying to figure out how to 
 * develop my A-frame skills
 * make a VR immersion with A-frame
 * find textures
-  I plan on using A-frame a lot in my Freedom project. I want to be able to make a very immersive experince that people can use and interact with.
+  I plan on using A-frame a lot in my Freedom project.
+   I want to be able to make a very immersive experince that people can use and interact with.
 
 ### Skills
 A few skills that I have developed are **attention to detail and how to research**. I developed the skill of attention to detail by watching videos, paying close attention to code and by changing/adding new things to it. I developed the skill researching by putting keywords into the search engine and by remebering important ideas that could be helpful when it comes to coding.

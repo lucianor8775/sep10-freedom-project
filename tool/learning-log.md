@@ -7,7 +7,7 @@
 ### 3/9/2025
 website and video i used
 [A-frame tutorial](https://www.youtube.com/watch?v=cHWO-nWWe5w) + [A-frame website](https://aframe.io/docs/1.7.0/introduction/)
-      *these reasurces help me learn more about A-frame 
+      * these reasurces help me learn more about A-frame 
 * I looked up examples and tinkered with the code and i ended up creating a forest with a cabin(its on my blog, sorry for submitting late.)
   this is the code that i came up with in order to make the cabin
   ```bash

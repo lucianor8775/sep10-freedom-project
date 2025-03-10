@@ -2,7 +2,7 @@
 #### 2/24/25
 
 ### Content
-I have decided to use A-frame, because i like the fact that it is used in a lot of things like VR, another reason that i have decided to use A-frame is because i find the animation and style very interesting. one way that i tinkered with A-frame was by creating a forest with a cabin. i used the original code to guide my code by analyzing it and learning from it. i tried to play around with code to see what i would like and i eventually ended up with a forest and a cabin.
+I have decided to use A-frame, because i like the fact that it is used in a lot of things like VR, another reason that i have decided to use A-frame is because i find the animation and style very interesting. One way that i tinkered with A-frame was by creating a forest with a cabin. I used the original code to guide my code by analyzing it and learning from it. I tried to play around with code to see what I would like, and I eventually ended up with a forest and a cabin.
 
 ### Tinkering
 my code for a tree
@@ -22,7 +22,7 @@ code for my cabin
 ```
 ![image here!!](https://github.com/user-attachments/assets/86aae917-8671-47f3-85fa-2644601364a2)
 ### Sources
-A few sources that helped me learn were [A-frame](https://aframe.io/) and [youtube](https://www.youtube.com/) The **A-frame website** helped me learn by giving me starter code and an introduction to A-frame. youtube helped me by explaining the code and by teaching me how to create certain things. 
+A few sources that helped me learn were [A-frame](https://aframe.io/) and [youtube](https://www.youtube.com/) The **A-frame website** helped me learn by giving me starter code and an introduction to A-frame. Youtube helped me by explaining the code and by teaching me how to create certain things. 
 
 ### Skills
-A few skills that i have developed are attention to detail and how to research. i developed the skill of attention to detail by watching videos, paying close attention to code and by changing/adding new things to it. i developed the skill researching by putting keywords into the search engine and by remebering important ideas that could be helpful when it comes to coding.
+A few skills that I have developed are attention to detail and how to research. I developed the skill of attention to detail by watching videos, paying close attention to code and by changing/adding new things to it. I developed the skill researching by putting keywords into the search engine and by remebering important ideas that could be helpful when it comes to coding.

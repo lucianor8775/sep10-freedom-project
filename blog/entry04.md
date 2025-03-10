@@ -22,7 +22,7 @@ code for my cabin
 ```
 ![image here!!](https://github.com/user-attachments/assets/86aae917-8671-47f3-85fa-2644601364a2)
 ### Sources
-A few sources that helped me learn were [A-frame](https://aframe.io/) and [youtube](https://www.youtube.com/) The **A-frame website** helped me learn by giving me starter code and an introduction to A-frame. Youtube helped me by explaining the code and by teaching me how to create certain things. 
+A few sources that helped me learn were [A-frame](https://aframe.io/) and [youtube](https://www.youtube.com/) The **A-frame website** helped me learn by giving me starter code and an introduction to A-frame. **Youtube** helped me by explaining the code and by teaching me how to create certain things. 
 
 ### Skills
-A few skills that I have developed are attention to detail and how to research. I developed the skill of attention to detail by watching videos, paying close attention to code and by changing/adding new things to it. I developed the skill researching by putting keywords into the search engine and by remebering important ideas that could be helpful when it comes to coding.
+A few skills that I have developed are **attention to detail and how to research**. I developed the skill of attention to detail by watching videos, paying close attention to code and by changing/adding new things to it. I developed the skill researching by putting keywords into the search engine and by remebering important ideas that could be helpful when it comes to coding.

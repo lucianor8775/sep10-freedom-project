@@ -19,7 +19,7 @@
   <a-cone position="0 3.5 -3" radius-bottom="3" radius-top="0" height="3" color="#A52A2A"></a-cone>
   <a-box position="0 0.5 -1.4" width="1" height="2" depth="0.1" color="#8B4513"></a-box>
   ```
-* A few challenges that I have faced while tinkering was the alignment of the objescts that I was creating, and finding good examples that I can take inspo from.
+* A few challenges that I have faced while tinkering was the alignment of the objects that I was creating, and finding good examples that I can take inspo from.
   * I fixed the alignment of my objects by trying every possible number that I could untill I eventually got it correct.
 * Question: How do i get textures on A-frame??
 * I plan to learn how to make my code look more realistic and I want to learn how to align my objects better.

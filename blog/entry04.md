@@ -24,12 +24,12 @@ code for my cabin
 ### Sources
 A few sources that helped me learn were [A-frame](https://aframe.io/) and [youtube](https://www.youtube.com/) The **A-frame website** helped me learn by giving me starter code and an introduction to A-frame. **Youtube** helped me by explaining the code and by teaching me how to create certain things. 
 
-### Skills
-A few skills that I have developed are **attention to detail and how to research**. I developed the skill of attention to detail by watching videos, paying close attention to code and by changing/adding new things to it. I developed the skill researching by putting keywords into the search engine and by remebering important ideas that could be helpful when it comes to coding.
-
 ### Engineering Design Process
 I am currently trying to work with my tool and I am trying to figure out how to build and create new things using it. My plans for the next stage of my freedom Project are to
 * develop my A-frame skills
 * make a VR immersion with A-frame
 * find textures
   I plan on using A-frame a lot in my Freedom project. I want to be able to make a very immersive experince that people can use and interact with.
+
+### Skills
+A few skills that I have developed are **attention to detail and how to research**. I developed the skill of attention to detail by watching videos, paying close attention to code and by changing/adding new things to it. I developed the skill researching by putting keywords into the search engine and by remebering important ideas that could be helpful when it comes to coding.

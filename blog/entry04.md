@@ -5,10 +5,20 @@
 I have decided to use A-frame, because i like the fact that it is used in a lot of things like VR, another reason that i have decided to use A-frame is because i find the animation and style very interesting. one way that i tinkered with A-frame was by creating a forest with a cabin. i used the original code to guide my code by analyzing it and learning from it. i tried to play around with code to see what i would like and i eventually ended up with a forest and a cabin.
 
 ### Tinkering
-I tinkered by trying to make a tree
+my code for a tree
 ```bash
 <a-cylinder position="-2.5 1.50 -5" radius=".2" height="3" color="#8B4513"></a-cylinder>
  <a-sphere position="-2.5 3 -5" radius="1.2" color="#228B22"></a-sphere>
+```
+code for my cabin
+```bash
+<a-box position="0 0 -3" width="4" height="0.1" depth="3" color="#8B4513"></a-box>
+<a-box position="-2 1 -3" width="0.1" height="2" depth="3" color="#D2691E"></a-box>
+<a-box position="2 1 -3" width="0.1" height="2" depth="3" color="#D2691E"></a-box>
+<a-box position="0 1 -4.5 -3" width="4" height="2" depth="0.1" color="#D2691E"></a-box>
+<a-box position="0 1 -1.5" width="4" height="2" depth="0.1" color="#D2691E"></a-box>
+<a-cone position="0 3.5 -3" radius-bottom="3" radius-top="0" height="3" color="#A52A2A"></a-cone>
+<a-box position="0 0.5 -1.4" width="1" height="2" depth="0.1" color="#8B4513"></a-box
 ```
 
 [image here!!](help.png)

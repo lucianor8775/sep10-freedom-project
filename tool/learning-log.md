@@ -23,4 +23,4 @@
   * I fixed the alignment of my objects by trying every possible number that I could untill I eventually got it correct.
 * Question: How do i get textures on A-frame??
 * I plan to learn how to make my code look more realistic and I want to learn how to align my objects better.
-      * i want to apply what i have learned on my freedom project by making a VR immersion.
+  * i want to apply what i have learned on my freedom project by making a VR immersion.

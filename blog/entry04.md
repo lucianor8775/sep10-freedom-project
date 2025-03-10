@@ -20,10 +20,7 @@ code for my cabin
 <a-cone position="0 3.5 -3" radius-bottom="3" radius-top="0" height="3" color="#A52A2A"></a-cone>
 <a-box position="0 0.5 -1.4" width="1" height="2" depth="0.1" color="#8B4513"></a-box
 ```
-
-[image here!!](help.png)
-
-
+![image here!!](https://github.com/user-attachments/assets/86aae917-8671-47f3-85fa-2644601364a2)
 ### Sources
 A few sources that helped me learn were [A-frame](https://aframe.io/) and [youtube](https://www.youtube.com/) The **A-frame website** helped me learn by giving me starter code and an introduction to A-frame. youtube helped me by explaining the code and by teaching me how to create certain things. 
 

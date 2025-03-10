@@ -30,6 +30,7 @@ I am currently trying to work with my tool and I am trying to figure out how to 
 * make a VR immersion with A-frame
 * find textures
   I plan on using A-frame a lot in my Freedom project.
+  
    I want to be able to make a very immersive experince that people can use and interact with.
 
 ### Skills

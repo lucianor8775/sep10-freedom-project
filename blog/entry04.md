@@ -26,5 +26,3 @@ A few sources that helped me learn were [A-frame](https://aframe.io/) and [youtu
 
 ### Skills
 A few skills that i have developed are attention to detail and how to research. i developed the skill of attention to detail by watching videos, paying close attention to code and by changing/adding new things to it. i developed the skill researching by putting keywords into the search engine and by remebering important ideas that could be helpful when it comes to coding.
-
-### EDP

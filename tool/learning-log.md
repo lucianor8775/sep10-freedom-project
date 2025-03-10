@@ -19,6 +19,6 @@ website and video i used
   <a-box position="0 0.5 -1.4" width="1" height="2" depth="0.1" color="#8B4513"></a-box>
   ```
 * a few challenges that i have faced while tinkering was the alignment of the objescts that i was creating, and finding good examples that i can take inspo from.
- question: How do i get textures on A-frame??
+* question: How do i get textures on A-frame??
 * I plan to learn how to make my code look more realistic and i want to learn how to align my objects better.
 

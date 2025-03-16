@@ -27,7 +27,8 @@
 ---
 ### 3/16/25
 A few resources that ive used include
-*[build a carnival shooting game in A-Frame](https://www.youtube.com/watch?v=t5Hou5QsRiE)+[A-Frame website](https://aframe.io/docs/1.7.0/introduction/)
+
+* [build a carnival shooting game in A-Frame](https://www.youtube.com/watch?v=t5Hou5QsRiE)+[A-Frame website](https://aframe.io/docs/1.7.0/introduction/)
 
 stuff ive done progress ive made
 

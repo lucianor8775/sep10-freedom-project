@@ -26,11 +26,11 @@
   * I want to apply what i have learned by including a VR immersion on my freedom project.
 ---
 ### 3/16/25
-##### A few resources that ive used include
+#### A few resources that ive used include
 
 * [build a carnival shooting game in A-Frame](https://www.youtube.com/watch?v=t5Hou5QsRiE)+[A-Frame website](https://aframe.io/docs/1.7.0/introduction/)
 
-##### stuff ive done progress ive made
+#### Stuff ive done/progress ive made
 
 * I tried to remake the the game that the guy made in the video but i wasnt able to make it look like the video exactly. I made progress by trying to remake things shown on video.
   

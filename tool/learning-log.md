@@ -26,5 +26,15 @@
   * I want to apply what i have learned by including a VR immersion on my freedom project.
 ---
 ### 3/16/25
-a few resources that ive used include
-*(https://www.youtube.com/watch?v=t5Hou5QsRiE)[build a carnival shooting game in A-Frame]
+A few resources that ive used include
+*[build a carnival shooting game in A-Frame](https://www.youtube.com/watch?v=t5Hou5QsRiE)+[A-Frame website](https://aframe.io/docs/1.7.0/introduction/)
+stuff ive done progress ive made
+*I tried to remake the the game that the guy made in the video but i wasnt able to make it look like the video exactly. I made progress by trying to remake things shown on video.
+Challenges
+*A few challenges that i have faced was while trying to recreate the things shown on the video, when i had to change a few things about the code so that i could make it a bit more different and add my own twist on it.
+Questions
+*is there a limit to what i can build on A-Frame?
+*will we have any other chances to practice A-Frame in class?
+Things i will be trying next
+*making games on my own
+*trying new unfamiliar code

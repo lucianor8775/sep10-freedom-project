@@ -24,3 +24,7 @@
 * Question: How do i get textures on A-frame??
 * I plan to learn how to make my code look more realistic and I want to learn how to align my objects better.
   * I want to apply what i have learned by including a VR immersion on my freedom project.
+---
+### 3/16/25
+a few resources that ive used include
+*[https://www.youtube.com/watch?v=t5Hou5QsRiE](build a carnival shooting game in A-Frame)

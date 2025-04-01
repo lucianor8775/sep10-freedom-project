@@ -58,13 +58,15 @@
 
   #### Progress Made
 
-  * I added my own texture in my code and made it look like the nightsky. I also tinked using the examples shown on the youtube video. My main focus was getting textures on my code since that has been my goal since the begining.
+ * I added my own texture in my code and made it look like the nightsky. I also tinked using the examples shown on the youtube video. My main focus was getting textures on my code since that has been my goal since the begining.
 
-  * ```bash
+ * ```bash
      <a-assets>
     <img id="ground" src="ground.jpg">
   </a-assets>
   ```
+
+  * This is the code for adding textures in your scene
 
   #### Challenges
 

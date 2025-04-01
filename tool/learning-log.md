@@ -54,7 +54,7 @@
   ### 3/31/25
   #### Resources
   
-  * [Aframe video](https://www.youtube.com/watch?v=mETucqeOmXA&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=3)+[Aframe website](https://aframe.io/docs/1.7.0/introduction/)
+* [Aframe video](https://www.youtube.com/watch?v=mETucqeOmXA&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=3)+[Aframe website](https://aframe.io/docs/1.7.0/introduction/)
 
   #### Progress Made
 

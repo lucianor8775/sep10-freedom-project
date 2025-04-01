@@ -63,8 +63,8 @@
  * ```bash
      <a-assets>
     <img id="ground" src="ground.jpg">
-  </a-assets>
-  ```
+     </a-assets>
+   ``` 
 
   * This is the code for adding textures in your scene
 

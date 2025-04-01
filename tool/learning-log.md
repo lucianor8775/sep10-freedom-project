@@ -25,6 +25,7 @@
 * I plan to learn how to make my code look more realistic and I want to learn how to align my objects better.
   * I want to apply what i have learned by including a VR immersion on my freedom project.
 ---
+
 ### 3/16/25
 #### A few resources that ive used include
 
@@ -47,3 +48,35 @@
 
 * making games on my own
 * new unfamiliar code
+
+  ---
+
+  ### 3/31/25
+  #### Resources
+  
+  * [Aframe video](https://www.youtube.com/watch?v=mETucqeOmXA&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=3)+[Aframe website](https://aframe.io/docs/1.7.0/introduction/)
+
+  #### Progress Made
+
+  * I added my own texture in my code and made it look like the nightsky. I also tinked using the examples shown on the youtube video. My main focus was getting textures on my code since that has been my goal since the begining.
+
+  * ```bash
+     <a-assets>
+    <img id="ground" src="ground.jpg">
+  </a-assets>
+  ```
+
+  #### Challenges
+
+ * When I tried to add textures it wouldnt work at first because I wasnt using the correct type of link.
+
+  #### Questions
+
+  * I want to learn how to add audio in my code
+  * I want to learn to make a firework scene
+
+  #### Next Steps
+
+  * My next steps will be to make a scene with builds, textures, and audio. I hope to make my gameplay as immersive as possible and I want to make it enjoyable and playable for everyone.
+    
+  

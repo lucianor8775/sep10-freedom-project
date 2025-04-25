@@ -7,6 +7,7 @@
 ## Colors
 * gradient/dark purple
 * blue
+* image?
 
 ## Fonts
 * [cherry cream](https://fonts.google.com/specimen/Cherry+Cream+Soda?query=font)

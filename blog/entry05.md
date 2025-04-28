@@ -16,6 +16,7 @@ here is a list of sources that i have used!
 
 ## Skills
 a few skills that i have strengthend by practicing A-frame include, patience and retaining information. i have been able to strengthen my patience by taking my time with my research and looking for info, I have been able to strengthen the skill of retaining info by remembering a lot of the stuff i find in order to use it in my project.
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)

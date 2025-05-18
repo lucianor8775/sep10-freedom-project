@@ -1,2 +1,5 @@
-body {background-color: purple;}
+body {
+    background: linear-gradient(#00bfff, #ffffff);
+    height: 100%;
+}
 

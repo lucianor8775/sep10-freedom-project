@@ -21,6 +21,6 @@ body {
   color: pink;
 
 }
-#navbar-example{
-  background-color:black;
+.navbar bg-body-tertiary px-3 mb-3{
+color:black;
 }

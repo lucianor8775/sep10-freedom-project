@@ -11,6 +11,6 @@ body {
     box-shadow: 0 -10px 20px -10px rgba(0, 0, 0, 0.3); /* shadow at top of footer */
   }
 .meow{
-  border: 1px solid gray;
+  border: 5px solid gray;
   padding: 8px;
 }

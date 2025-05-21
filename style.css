@@ -20,7 +20,13 @@ body {
   text-align: center;
   color: pink;
 
-}
-.navbar bg-body-tertiary px-3 mb-3{
-color:black;
-}
+ .navbar-custom {
+      background-color: #000;
+    }
+    .navbar-custom .nav-link,
+    .navbar-custom .navbar-brand {
+      color: #fff;
+    }
+    .navbar-custom .nav-link:hover,
+    .navbar-custom .navbar-brand:hover {
+      color: #ccc;

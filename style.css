@@ -19,5 +19,8 @@ body {
 .cute{
   text-align: center;
   color: pink;
-  
+
+}
+#navbar-example{
+  background-color:black;
 }

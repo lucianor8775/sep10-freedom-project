@@ -15,6 +15,8 @@ This is what it looked like once it was fixed
 ```bash
  <a class="nav-item nav-link" href="https://app.pickcode.io/share/cmb0xfko7fnw38qty38l0anql" target="_blank">Game</a>
 ```
+This was a challenge for me because in previous projects i had not been the one to code the navabr.
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)

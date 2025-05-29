@@ -8,6 +8,11 @@ I made my MVP by looking at the website requirements and my Wire frames. I had t
 Something that was challenging while making my MVP was Linking my model of our solar system onto my website.
 this is what the code looked like when it wasnt linked to my model.
 ```bash
+ <a class="nav-item nav-link" href="#game" target="_blank">Game</a>
+```
+All that was needed to do in order to link my wesbite was to literally insert the link of my pickcode into the code.
+This is what it looked like once it was fixed
+```bash
  <a class="nav-item nav-link" href="https://app.pickcode.io/share/cmb0xfko7fnw38qty38l0anql" target="_blank">Game</a>
 ```
 [Previous](entry05.md) | [Next](entry07.md)

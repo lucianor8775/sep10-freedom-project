@@ -45,6 +45,7 @@ A few skills that I have gained from this experince include:
 * Public Speaking
 * Organization
 * Research
+  
 Public speaking is a very important skill to have and I gained it by practicing my elavator pitch with others and by being confident when speaking with the judges who were grading my presentation skills.
 I gained the skill of organization by taking down notes and summerizing any key points that I would like to work on and or explain when doing research and doing my presentation with others.
 Another skill that I gained throughout this process was research which I gained by asking my peers questions and their opinions on things as well as by doing research on my tool and looking at bootstrap templetes as a way of inspiration when building my website.

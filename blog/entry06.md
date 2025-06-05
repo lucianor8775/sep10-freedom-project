@@ -17,7 +17,7 @@ This is what it looked like once it was fixed
 ```
 This was a challenge for me because in previous projects i had not been the one to code the navabr.
 
-Another thing that i found complicated include
+Another thing that i found complicated include 
 
 ### Sources
 * [NASA](https://www.nasa.gov/)

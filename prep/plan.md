@@ -45,7 +45,7 @@ from 4/24 to 5/5
 
 | Name | Glows | Grows |
 | ------- | ------- | ------- |
-|  David  | i liked the way u introduced your topic in the overview u had by saying that         |
+|  David  | i liked the way u introduced your astronomy topic in your overview by adding a drop down that includes why u chose this as your topic.| i think u shoukd work on adding colors like purple and blue because those colors go along with your topic(imo)
 |   |   |
 |   |   |
 |   |   |

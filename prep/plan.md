@@ -28,7 +28,12 @@ from 4/24 to 5/5
 
 #### Beyond MVP
 
-* Task
+* fonts
+* gradient
+* navbar link
+* simple hardware
+* boarders
+* future innovation
 
 
 

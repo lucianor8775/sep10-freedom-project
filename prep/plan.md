@@ -45,7 +45,7 @@ from 4/24 to 5/5
 
 | Name | Glows | Grows |
 | ------- | ------- | ------- |
-|         |         |
+|  David  | i liked the way u introduced your topic in the overview u had by saying that         |
 |   |   |
 |   |   |
 |   |   |

@@ -50,5 +50,5 @@ from 4/24 to 5/5
 |Aaron W|u glowed by adding your game to your website and linking it as a button.| something u should do in order to help u grow is adding fun facts and quizing the player on things about our solar system.
 |Ala|I liked your carousel at the begining of your website because it introduced cool facts about the planets in our solar system and its planets.| something you could work on is the sizing of your images because the different sizes throw me off a bit.
 |Farzona|i liked how you added the drop down component with the reasons why u chose astronomy as your topic and the way that wrote your overview about your website.| u should fix the navbar because it doesnt link to the game yet.
-|Serrick|i liked how u fixed the gradient of your cards in order to make them stand out for your facts and software as well as hardware.| u should find better images that arent so pixilated for your website!
+|derrick|i liked how u fixed the gradient of your cards in order to make them stand out for your facts and software as well as hardware.| u should find better images that arent so pixilated for your website!
 

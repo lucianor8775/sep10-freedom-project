@@ -40,6 +40,7 @@ from 4/24 to 5/5
 
 | Name | Glows | Grows |
 | david | ------- | ------- |
+
 |   |   |
 |   |   |
 |   |   |

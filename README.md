@@ -1,18 +1,18 @@
 # SEP10 Freedom Project
-by **X**
+by **Luciano Rita**
 
 ## Context
 I am Luciano Rita, a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **Astronomy**. 
+For my project, I chose the topic of **Astronomy**. I chose the topic of astronomy because i 
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-frame** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://app.pickcode.io/project/cmb0xfko7fnw38qty38l0anql)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1Eu_DoB1AtDPFwreffgCnQiWNX0naKR0-EA5ZpFzbfHo/edit?slide=id.p#slide=id.p)
 
 ## Implications
 ##### PROS

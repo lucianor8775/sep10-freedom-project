@@ -6,8 +6,7 @@ I am Luciano Rita, a student at [HSTAT](https://www.hstat.org/) in the [Software
 
 For my project, I chose the topic of **Astronomy**. I chose the topic of astronomy because its not widely known about and its something that i find very interesting. In my website i included things such as hardware, software, a model of our solar system and a future innovation that all directly had to do with things in the feild of astronomy. The goal of my website was to educate others about astronomy in a fun and interactive type of way which i hoped to achieve by adding things like buttons and quick fun facts about the things we have in our solar system.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-frame** in order to help me make my website.
-
+For my website I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-frame** in order to help me make my website. I used bootstrap components like carousel which provided images and fun facts about our planets, drop down which gave insight to the user about why i chose astronomy and cards which gave info to the user about software and hardware used in astronomy. HTML was the structure of my website and CSS paint was the paint which made it look a lot better with things like fonts,colors, boarders and text sizing.
 ## Links
 
 [Product](https://app.pickcode.io/project/cmb0xfko7fnw38qty38l0anql)

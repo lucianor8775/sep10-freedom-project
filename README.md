@@ -16,10 +16,15 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* quick learning
+* education
+* learning about our enviornment
+* inspire others to learn more about astronomy
+* maybe this could change the way people see astronomy
 ##### CONS
-* 
-
+* not in depth information
+* additional unknown info
+* people could try to spread false info through things like false claims
 
 ## Blog
 Below you will find my blog about how I made my project.
